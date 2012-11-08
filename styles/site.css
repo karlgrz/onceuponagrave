@@ -1,0 +1,14 @@
+.body {
+	color: white;
+	background-color: black;
+}
+.centered {
+	padding: 0px 0px 30px 0px;
+	text-align: center;
+	width: 100%;
+}
+
+.coverImage {
+	width: 500px;
+	height: 500px;
+}
